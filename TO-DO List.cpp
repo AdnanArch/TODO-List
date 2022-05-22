@@ -48,6 +48,7 @@ int main()
 		} system("cls");
 	} while (choice != 0);
 	printTaskList();
+	return 0;
 } 
 
 void printTaskList() {
